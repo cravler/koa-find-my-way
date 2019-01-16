@@ -1,0 +1,34 @@
+{
+  "name": "koa-find-my-way",
+  "description": "Router middleware for koa.",
+  "author": {
+    "name": "Sergei Vizel",
+    "email": "sergei.vizel@gmail.com",
+    "url": "https://github.com/cravler"
+  },
+  "homepage": "https://github.com/cravler/koa-find-my-way",
+  "keywords": [
+    "find-my-way",
+    "middleware",
+    "router",
+    "route",
+    "koa"
+  ],
+  "license": "MIT",
+  "version": "0.1.0",
+  "main": "index.js",
+  "dependencies": {
+    "find-my-way": "^1.17.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cravler/koa-find-my-way.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cravler/koa-find-my-way/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
